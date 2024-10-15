@@ -1,0 +1,14 @@
+div{
+    background-color: aqua;
+    display: flex;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: aliceblue;
+}
+li{
+    list-style-type : none;
+    display: inline;
+}

@@ -1,0 +1,39 @@
+body{
+    background-image: url(lion.jpg);
+    background-size: cover;
+}
+#box1{
+    height: 100px;
+    width: 100px;
+    background-image: url(Nature.jpg);
+    background-size: cover;
+    display: inline-block;
+    border: 2px solid black;
+    margin: 10px;
+}
+#box2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(89, 42, 165);
+    background-image:  ("C:\Users\ashis\Downloads\nature.jpg.jpg");
+    background-size: cover;
+    display: inline-block;
+    border: 2px solid black;
+    margin: 10px;
+}
+#box3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(250, 242, 87);
+    display: inline-block;
+    border: 2px solid black;
+    margin: 10px;
+}
+#box4{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(211, 12, 198);
+    display: inline-block;
+    border: 2px solid black;
+    margin: 10px;
+}

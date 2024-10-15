@@ -1,0 +1,377 @@
+*{
+    color: white;
+}
+body {
+    background-color: gray;
+}
+#container{
+height: 60px;
+background-color: #0f1111;
+border: 4px solid black ;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a {
+    text-decoration: none;
+    margin-right: 180px;
+}
+button{
+    background-color: #f08804;
+}
+
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: 4px solid black;
+    display: inline-block;
+    margin: 25px;
+    padding: 25px;
+    color: #0f1111;
+    border-radius: 10px;
+}
+#content {
+    height: 470px;
+    background-color: #FFDC7F;
+}
+
+footer{
+    background-color: #0f1111;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+Amazon Website.....
+
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+    text-decoration: none;
+}
+body{
+    background-color: blue;
+}
+
+div{
+    height: 60px;
+    background-color: #0f1111;
+    border: 5px solid white;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#amazon {
+    color: #f08804;
+    font-size: 25px;
+}
+a {
+    margin-right: 180px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Traffic Light.....
+
+body{
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    height: 500px;
+    width: 150px;
+    background-color: black;
+    border: 10px solid goldenrod;
+    border-radius: 150px;
+    padding: 30px;
+}
+#red{
+    border-radius: 50%;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+}
+
+#yellow{
+    border-radius: 50%;
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+}
+
+#green{
+    border-radius: 50%;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* div{
+    height: 100px;
+    background-color: aqua;
+    width: 100px;
+    border: 2px solid magenta;
+    text-align: right;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    margin: 25px 50px 25px 50px ;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+*{
+    font-family: 'Times New Roman';
+}
+body  {
+    background-color: aquamarine;
+}
+button {
+    color: #6A3498;
+    background-color: green;
+}
+.heading {
+    color: red;
+    text-transform: capitalize;
+    text-align: center;
+}
+.Myclass {
+    color: magenta;
+    text-decoration: underline;
+}
+#box {
+    background-color: blue;
+    text-decoration:red dotted underline;
+}
+p{
+    text-align: left;
+}
+#note1{
+    font-size: 15px;
+    text-transform: capitalize;
+}
+#note2{
+    font-size: 20px;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    }
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url("lion.jpg");
+    background-size: cover;
+    color: white;
+    position: fixed;
+    top: 30px;
+    right: 0px;
+}
+body{
+    background-image: url("Nature.jpg");
+    background-size: cover;
+    backface-visibility: visible;
+} */
+
+
+
+
+
+
+
+
+
+/* *{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+#navbar {
+    height: 60px;
+    background-color: #0f1111;
+    border: 4px solid white ;
+}
+#logo {
+    color: #f08804;
+    font-size: 25px;
+}
+button {
+    background-color: #f08804;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+.contentBox{
+    height: 100px;
+    width: 100px;
+}
+footer{
+    background-color: aquamarine;
+    color: #0f1111;
+} */ 
+
+/* div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1{
+   background-image: url("lion.jpg");
+   background-size: cover;
+} */
+/* #box1{
+    position: static;
+    z-index: 1;
+}
+#box2{
+    position: relative;
+    bottom: 20px;
+    left: 25px;
+    z-index: 1;
+}
+#box3{
+    position:sticky;
+    top: 0px;
+}
+#box4{
+    position: fixed;
+    top: 0px;
+    left: 10px;
+    z-index: -3;
+}
